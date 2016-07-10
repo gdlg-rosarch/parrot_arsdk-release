@@ -1,3 +1,26 @@
+## parrot_arsdk (kinetic) - 3.9.1-2
+
+The packages in the `parrot_arsdk` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic parrot_arsdk --edit` on `Sun, 10 Jul 2016 05:43:56 -0000`
+
+The `parrot_arsdk` package was released.
+
+Version of package(s) in repository `parrot_arsdk`:
+
+- upstream repository: https://github.com/AutonomyLab/parrot_arsdk.git
+- release repository: https://github.com/AutonomyLab/parrot_arsdk-release.git
+- rosdistro version: `3.9.1-1`
+- old version: `3.9.1-1`
+- new version: `3.9.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## parrot_arsdk (jade) - 3.9.1-2
 
 The packages in the `parrot_arsdk` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade parrot_arsdk --edit` on `Sun, 10 Jul 2016 05:40:35 -0000`
