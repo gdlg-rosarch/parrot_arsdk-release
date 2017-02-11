@@ -1,3 +1,26 @@
+## parrot_arsdk (indigo) - 3.11.0-0
+
+The packages in the `parrot_arsdk` repository were released into the `indigo` distro by running `/usr/bin/bloom-release parrot_arsdk --track indigo --rosdistro indigo` on `Sat, 11 Feb 2017 20:50:24 -0000`
+
+The `parrot_arsdk` package was released.
+
+Version of package(s) in repository `parrot_arsdk`:
+
+- upstream repository: https://github.com/AutonomyLab/parrot_arsdk.git
+- release repository: https://github.com/AutonomyLab/parrot_arsdk-release.git
+- rosdistro version: `3.10.1-0`
+- old version: `3.10.1-0`
+- new version: `3.11.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## parrot_arsdk (kinetic) - 3.10.1-0
 
 The packages in the `parrot_arsdk` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic parrot_arsdk` on `Tue, 27 Sep 2016 18:03:27 -0000`
